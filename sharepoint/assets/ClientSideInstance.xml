@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ClientSideComponentInstance
+        Title="GMenuforSharePointOnline"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ComponentId="6117e91e-8fa7-4321-9590-b87fc4c62c25"
+        Properties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </ClientSideComponentInstance>
+</Elements>
