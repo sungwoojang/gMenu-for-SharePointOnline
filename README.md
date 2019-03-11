@@ -84,4 +84,5 @@ https://www.vrdmn.com/2017/01/working-with-rest-api-in-sharepoint.html
 ## How To Work With List Items In SPFx Using REST API - Retrieve List Data - Part One ## ( TS CLASS based this Site)
 https://www.c-sharpcorner.com/article/how-to-work-with-list-items-in-spfx-using-rest-api-retrieve-list-data-part-o/
 
-
+## 중요사이트임 (git 사용하는 방법인)
+https://promobile.tistory.com/378
