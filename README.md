@@ -48,15 +48,6 @@ npm install @microsoft/sp-lodash-subset
 ?loadSPFX=true&debugManifestsFile=https://localhost:4321/temp/manifests.js&customActions={"6117e91e-8fa7-4321-9590-b87fc4c62c25":{"location":"ClientSideExtension.ApplicationCustomizer","properties":{"testMessage":"Hello as property!"}}}
 
 
-## git Source Control ##
-https://git-scm.com/download/win
-git에 가입하고(구글계정) 클라이언트 프로그램 설치
-#설정 방법
-https://demun.github.io/vscode-tutorial/git/ 
-
-
-
-
 
 ## 참고 사이트 ###
 https://docs.microsoft.com/en-us/sharepoint/dev/spfx/extensions/get-started/using-page-placeholder-with-extensions
